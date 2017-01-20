@@ -1,0 +1,7 @@
+{
+    "dev": {
+        "django_settings": "bcfs.settings", 
+        "s3_bucket": "zappa-k57e0brl7"
+	"aws_region": "us-west-2"
+    }
+}
